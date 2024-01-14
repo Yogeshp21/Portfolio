@@ -14,7 +14,7 @@ const Home = () => {
             <div className={`sticky top-0 z-30 w-full border-b border-transparent bg-gray max-md:border-gray-0 bg-gray/50 backdrop-blur-xl`}>
                 <Header />
             </div>
-            <div className='py-16 md:py-24'  >
+            <div className='py-16 md:py-24' id='home' >
                 <Hero />
             </div>
             <div className='py-16 md:py-24 bg-[#F9FAFB] dark:bg-[#111827]' id="about" >

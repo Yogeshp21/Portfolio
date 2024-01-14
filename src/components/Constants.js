@@ -99,7 +99,7 @@ export const PROJECTS = [
         name: 'Portfolio',
         description:
             'Personal portfolio website with responsive user interface and animation.',
-        url: 'https://fiskil.com.au',
+        url: 'https://portfolio-yogeshp.netlify.app/',
         previewImage: PortfolioImg,
         technologies: [
             'React',
