@@ -8,7 +8,7 @@ const Work = () => {
             <div className="flex flex-col items-center gap-4">
                 <div className="self-center">
                     <div
-                        className='flex items-center justify-center rounded-xl bg-gray-200 px-5 py-1'
+                        className='flex items-center dark:bg-[#374151] dark:text-[#D1D5DB] justify-center rounded-xl bg-gray-200 px-5 py-1'
                     >
                         <h3 className="font-medium text-sm">
                             Work
@@ -60,7 +60,7 @@ const Work = () => {
                             <a
                                 href={project.url}
                                 noCustomization
-                                className="self-start rounded-lg p-1.5 hover:bg-gray-50 [&_svg]:stroke-gray-500"
+                                className="self-start rounded-lg p-1.5 hover:bg-gray-50 dark:hover:bg-[#394355] [&_svg]:stroke-gray-500"
                                 externalLink
                                 target='_blank_'
                             >
