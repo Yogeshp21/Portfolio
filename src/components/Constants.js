@@ -70,7 +70,7 @@ export const TECHNOLOGIES = [
     {
         label: 'GitHub',
         logo: LogoGitHub,
-        url: 'https://github.com/Yogeshp21',
+        url: 'https://cplusplus.com/doc/tutorial/',
     },
 ];
 
