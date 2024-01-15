@@ -26,7 +26,7 @@ const Home = () => {
             <div className='py-16 md:py-24 dark:bg-[#111827]' id="work" >
                 <Work />
             </div >
-            <div className='py-16 md:py-24' id="work" >
+            <div className='py-16 md:py-24' id="contact" >
                 <Contact />
             </div >
             <Footer />
