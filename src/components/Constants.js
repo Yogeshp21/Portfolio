@@ -55,7 +55,7 @@ export const TECHNOLOGIES = [
     {
         label: 'C++',
         logo: LogoC,
-        url: 'https://reactrouter.com/en/main',
+        url: 'https://cplusplus.com/doc/tutorial/',
     },
     {
         label: 'Firebase',
@@ -70,7 +70,7 @@ export const TECHNOLOGIES = [
     {
         label: 'GitHub',
         logo: LogoGitHub,
-        url: 'https://cplusplus.com/doc/tutorial/',
+        url: 'https://github.com/Yogeshp21',
     },
 ];
 
