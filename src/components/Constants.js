@@ -7,7 +7,8 @@ import LogoHTML from '../assets/Logos/icon-html5.svg'
 import LogoCSS from '../assets/Logos/icon-css3.svg'
 import LogoFirebase from '../assets/Logos/icon-firebase.svg'
 import LogoGitHub from '../assets/Logos/icon-github.svg'
-
+import LogoReactRouterDom from '../assets/Logos/icon-react-router.svg'
+import LogoC from '../assets/Logos/icon-cpp.svg'
 
 import BlogZone from '../assets/Projects_img/project-blogzone.png'
 import NetflixClone from '../assets/Projects_img/project-netflixclone.png'
@@ -45,6 +46,16 @@ export const TECHNOLOGIES = [
         label: 'CSS',
         logo: LogoCSS,
         url: 'https://developer.mozilla.org/en-US/docs/Web/CSS',
+    },
+    {
+        label: 'React Router DOM',
+        logo: LogoReactRouterDom,
+        url: 'https://reactrouter.com/en/main',
+    },
+    {
+        label: 'C++',
+        logo: LogoC,
+        url: 'https://reactrouter.com/en/main',
     },
     {
         label: 'Firebase',
