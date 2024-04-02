@@ -24,7 +24,7 @@ const Skills = () => {
           {TECHNOLOGIES.map((technology, index) => (
 
             <div key={index} className="flex flex-col items-center gap-2">
-              <a href={technology.url} rel='noreferrer' target='_blank'>
+              <a href={technology.url} rel='noreferrer' target='blank'>
                 <img
                   src={technology.logo}
                   // srcForDarkMode={darkModeLogo}

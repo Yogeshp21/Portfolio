@@ -7,6 +7,11 @@ import LogoHTML from '../assets/Logos/icon-html5.svg'
 import LogoCSS from '../assets/Logos/icon-css3.svg'
 import LogoFirebase from '../assets/Logos/icon-firebase.svg'
 import LogoGitHub from '../assets/Logos/icon-github.svg'
+import LogoExpress from '../assets/Logos/icon-express.svg'
+import LogoNode from '../assets/Logos/icon-nodejs.svg'
+import LogoMongoDB from '../assets/Logos/icon-mongodb.svg'
+import LogoSass from '../assets/Logos/icon-sass.svg'
+import LogoPostman from '../assets/Logos/icon-postman.svg'
 import LogoReactRouterDom from '../assets/Logos/icon-react-router.svg'
 import LogoC from '../assets/Logos/icon-cpp.svg'
 
@@ -27,15 +32,26 @@ export const TECHNOLOGIES = [
         label: 'React',
         logo: LogoReact,
         url: 'https://react.dev/',
-    }, {
+    }, 
+    {
+        label: 'Express',
+        logo: LogoExpress,
+        url: 'https://expressjs.com/',
+    },
+    {
+        label: 'Node',
+        logo: LogoNode,
+        url: 'https://nodejs.org/en',
+    },
+    {
+        label: 'MongoDB',
+        logo: LogoMongoDB,
+        url: 'https://www.mongodb.com/',
+    },
+    {
         label: 'Redux',
         logo: LogoRedux,
         url: 'https://redux.js.org/',
-    },
-    {
-        label: 'Tailwindcss',
-        logo: LogoTailwindcss,
-        url: 'https://tailwindcss.com/',
     },
     {
         label: 'HTML',
@@ -48,9 +64,24 @@ export const TECHNOLOGIES = [
         url: 'https://developer.mozilla.org/en-US/docs/Web/CSS',
     },
     {
+        label: 'Tailwindcss',
+        logo: LogoTailwindcss,
+        url: 'https://tailwindcss.com/',
+    },
+    {
+        label: 'Sass',
+        logo: LogoSass,
+        url: 'https://sass-lang.com/',
+    },
+    {
         label: 'React Router DOM',
         logo: LogoReactRouterDom,
         url: 'https://reactrouter.com/en/main',
+    },
+    {
+        label: 'Postman',
+        logo: LogoPostman,
+        url: 'https://www.postman.com/',
     },
     {
         label: 'C++',

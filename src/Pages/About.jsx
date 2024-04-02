@@ -37,31 +37,31 @@ const About = () => {
                         </h3>
                         <div>
                             I&apos;m a passionate,{' '}
-                            
-                                self-proclaimed web developer
-                           {' '}
-                            who specializes in front end development (React.js). I am
+
+                            self-proclaimed web developer
+                            {' '}
+                            who specializes in full stack development (React.js & Node.js). I am
                             enthusiastic about bringing the technical and visual aspects of
                             digital products to life. User experience,and writing clear, readable, highly performant code matters to me.
                         </div>
                         <p>
-                            As a fresher I began my journey as a web developer.
+                            As a fresher, I want to begin my journey as a web developer.
                             I&apos;ve continued to grow and evolve as a developer, taking on new
                             challenges and learning the latest technologies along the way.
                             I&apos;m building cutting-edge web applications using
-                            modern technologies such as React.js, Tailwindcss and much more.
+                            modern technologies such as React.js, Express.js, Node.js, MongoDB, Tailwindcss and much more.
                         </p>
                         <p>
                             I am very much a progressive thinker and enjoy working on products
                             end to end, from ideation all the way to development.
                         </p>
-                                               <h3>Finally, some quick bits about me.</h3>
+                        <h3>Finally, some quick bits about me.</h3>
                         <div className="flex flex-col gap-2 md:flex-row md:gap-6">
                             <ul className="flex list-inside list-disc flex-col gap-2">
                                 <li>
                                     B.E. in Electrical Engineering
                                 </li>
-                                <li >Front end Developer</li>
+                                <li >full stack Developer</li>
                             </ul>
                             <ul className="flex list-inside list-disc flex-col gap-2">
                                 <li>Avid learner</li>
@@ -70,7 +70,7 @@ const About = () => {
                         </div>
                         <p>
                             One last thing, I&apos;m available for full time work, so feel free
-                            to reach out and say hello! I promise I don&apos;t bite 😉
+                            to reach out and say hello!😉
                         </p>
                     </div>
                 </div>

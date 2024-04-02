@@ -28,7 +28,7 @@ const Hero = () => {
                             <span className="inline-block animate-waving-hand">👋</span>
                         </h1>
                         <p className='text-base font-normal dark:text-[#D1D5DB]'>
-                            I&apos;m a front end developer <a href='https://www.linkedin.com/in/yogeshpatade21/' target='_blank_' className='underline'>React.js</a> with a focus
+                            I&apos;m a full stack developer <a href='https://www.linkedin.com/in/yogeshpatade21/' target='blank'>(React.js & Node.js)</a> with a focus
                             on creating exceptional digital
                             experiences that are fast, accessible, visually appealing, and
                             responsive. 
