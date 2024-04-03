@@ -62,7 +62,7 @@ const About = () => {
                                     B.E. in Electrical Engineering
                                 </li>
 
-                                <li >Frontend Developer</li>
+                                <li >Full Stack Developer</li>
 
                             </ul>
                             <ul className="flex list-inside list-disc flex-col gap-2">
